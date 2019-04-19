@@ -1,1 +1,0 @@
-Cufon.replace('h1, h2', { fontFamily: 'Myriad Pro' });
